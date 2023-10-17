@@ -1,13 +1,11 @@
-interface Props {
-    id
-    content
-    completed
-}
-export const Todo: React.FC<Props> = ({todo}) => {
+import { Todo as TodoType } from "../types/types"
+
+type Props = TodoType
+export const Todo: React.FC<Props> = ({content}) => {
     return (
       <>
       <li>
-        {todo.content}
+        {content}
       </li>
       </>
     )
