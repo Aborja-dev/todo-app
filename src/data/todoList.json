@@ -1,0 +1,55 @@
+{
+    "todos": [
+        {
+          "id": 1,
+          "content": "Clean the kitchen",
+          "completed": false
+        },
+        {
+          "id": 2,
+          "content": "Do the laundry",
+          "completed": true
+        },
+        {
+          "id": 3,
+          "content": "Take out the trash",
+          "completed": false
+        },
+        {
+          "id": 4,
+          "content": "Buy groceries",
+          "completed": false
+        },
+        {
+          "id": 5,
+          "content": "Mow the lawn",
+          "completed": true
+        },
+        {
+          "id": 6,
+          "content": "Wash the car",
+          "completed": false
+        },
+        {
+          "id": 7,
+          "content": "Walk the dog",
+          "completed": false
+        },
+        {
+          "id": 8,
+          "content": "Pay the bills",
+          "completed": false
+        },
+        {
+          "id": 9,
+          "content": "Organize the closet",
+          "completed": true
+        },
+        {
+          "id": 10,
+          "content": "Fix the leaky faucet",
+          "completed": false
+        }
+      ]
+      
+}
